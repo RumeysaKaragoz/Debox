@@ -8,7 +8,7 @@ C# and SQL Server based desktop automation project.
 Order Tracking Automation System is a desktop-based stock and sales management application developed using C# and Windows Forms.
 This project was created to manage product inventory, process sales transactions, and demonstrate database-driven application logic.
 
-Features
+## Features
 
 User authentication (database-based login)
 
@@ -30,7 +30,7 @@ Sales record creation
 
 SQL Server integration
 
-Technologies Used
+## Technologies Used
 
 C#
 
@@ -44,7 +44,7 @@ ADO.NET
 
 Git & GitHub
 
-Project Structure
+## Project Structure
 
 Siparis_takip_otomasyonu/ → Main application source files
 
@@ -76,7 +76,7 @@ Form7.cs → Product listing
 
 .gitignore → Version control configuration
 
-Database
+## Database
 
 Main tables:
 
@@ -89,6 +89,7 @@ Satislar → Sales records
 Connection method:
 
 Integrated Security=True
+
 ## How to Run
 
 1. Clone the repository:
@@ -100,12 +101,11 @@ Integrated Security=True
 
 4. Build and run the project
 
-
-Security Note
+## Security Note
 
 Database connection is configured for local SQL Server usage.
 Sensitive credentials or external configuration files are not included in the repository.
 
-Note
+## Note
 
 This project was developed for educational and learning purposes to gain practical experience in desktop application development and database integration.
