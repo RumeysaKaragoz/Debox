@@ -1,10 +1,10 @@
-Order Tracking Automation System
+#Order Tracking Automation System
 
 A desktop-based Order Tracking and Stock Management application developed using C# (.NET Framework - Windows Forms) and SQL Server.
 
 This project demonstrates basic business automation logic including user authentication, product management, stock control, and sales processing.
 
-Features
+ ##Features
 
  User Login System (Database-based authentication)
 
@@ -22,7 +22,7 @@ Sales Processing
 
  Data visualization using DataGridView
 
- Technologies
+##Technologies
 
 C#
 
@@ -32,7 +32,7 @@ SQL Server
 
 ADO.NET (SqlConnection, SqlCommand, SqlDataAdapter)
 
- Database Structure
+ ##Database Structure
 
 Main tables:
 
@@ -46,7 +46,7 @@ Connection string uses:
 
 Integrated Security=True
 
- Project Purpose
+##Project Purpose
 
 The goal of this project is to implement a basic desktop automation system that handles:
 
@@ -60,7 +60,7 @@ Stock tracking logic
 
 This project was developed for educational and practical experience in database-driven application development.
 
-  Possible Improvements
+ ##Possible Improvements
 
 Layered architecture implementation
 
@@ -72,6 +72,6 @@ Reporting module
 
 UI/UX enhancements
 
- Developer
+##Developer
 Rümeysa Karagöz
 Management Information Systems Student
