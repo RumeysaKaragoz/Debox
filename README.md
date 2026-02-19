@@ -1,77 +1,83 @@
-#Order Tracking Automation System
+ORDER TRACKING AUTOMATION SYSTEM
 
-A desktop-based Order Tracking and Stock Management application developed using C# (.NET Framework - Windows Forms) and SQL Server.
+Order Tracking Automation System is a desktop-based stock and sales management application developed using C# and Windows Forms.
+This project was created to manage product inventory, process sales transactions, and demonstrate database-driven application logic.
 
-This project demonstrates basic business automation logic including user authentication, product management, stock control, and sales processing.
+Features
 
- ##Features
+User authentication (database-based login)
 
- User Login System (Database-based authentication)
+Product adding
 
- Product Management (Add, Update, Delete, List)
+Product updating
 
- Stock Control System
+Product deleting
 
-Sales Processing
+Product listing
 
- Insufficient Stock Warning
+Stock control during sales
 
- Sales Record Creation
+Insufficient stock validation
 
- Real-time SQL Server Integration
+Automatic stock update after sales
 
- Data visualization using DataGridView
+Sales record creation
 
-##Technologies
+SQL Server integration
+
+Technologies Used
 
 C#
 
-.NET Framework (Windows Forms)
+.NET Framework
+
+Windows Forms
 
 SQL Server
 
-ADO.NET (SqlConnection, SqlCommand, SqlDataAdapter)
+ADO.NET
 
- ##Database Structure
+Git & GitHub
+
+Project Structure
+
+Siparis_takip_otomasyonu/ → Main application source files
+
+Form1.cs → Login screen
+
+Form2.cs → Authentication control
+
+Form3.cs → Main menu
+
+Form4.cs → Sales management
+
+Form5.cs → Product management
+
+Form7.cs → Product listing
+
+.sln → Visual Studio solution file
+
+.gitignore → Version control configuration
+
+Database
 
 Main tables:
 
-giris – User credentials
+giris → User credentials
 
-urunler – Product information
+urunler → Product information
 
-Satislar – Sales records
+Satislar → Sales records
 
-Connection string uses:
+Connection method:
 
 Integrated Security=True
 
-##Project Purpose
+Security Note
 
-The goal of this project is to implement a basic desktop automation system that handles:
+Database connection is configured for local SQL Server usage.
+Sensitive credentials or external configuration files are not included in the repository.
 
-CRUD operations
+Note
 
-Database connectivity
-
-Multi-form management
-
-Stock tracking logic
-
-This project was developed for educational and practical experience in database-driven application development.
-
- ##Possible Improvements
-
-Layered architecture implementation
-
-Password hashing for security
-
-Role-based authorization
-
-Reporting module
-
-UI/UX enhancements
-
-##Developer
-Rümeysa Karagöz
-Management Information Systems Student
+This project was developed for educational and learning purposes to gain practical experience in desktop application development and database integration.
