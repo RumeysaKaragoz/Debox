@@ -86,6 +86,17 @@ Satislar → Sales records
 Connection method:
 
 Integrated Security=True
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/RumeysaKaragoz/Debox.git
+
+2. Open the solution file (.sln) in Visual Studio
+
+3. Configure your SQL Server connection string
+
+4. Build and run the project
+
 
 Security Note
 
