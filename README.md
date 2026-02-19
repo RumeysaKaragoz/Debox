@@ -1,4 +1,7 @@
-ORDER TRACKING AUTOMATION SYSTEM
+# ORDER TRACKING AUTOMATION SYSTEM
+
+C# and SQL Server based desktop automation project.
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/RumeysaKaragoz/Debox)
 ![GitHub language count](https://img.shields.io/github/languages/count/RumeysaKaragoz/Debox)
 
