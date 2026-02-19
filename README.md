@@ -1,4 +1,6 @@
 ORDER TRACKING AUTOMATION SYSTEM
+![GitHub repo size](https://img.shields.io/github/repo-size/RumeysaKaragoz/Debox)
+![GitHub language count](https://img.shields.io/github/languages/count/RumeysaKaragoz/Debox)
 
 Order Tracking Automation System is a desktop-based stock and sales management application developed using C# and Windows Forms.
 This project was created to manage product inventory, process sales transactions, and demonstrate database-driven application logic.
