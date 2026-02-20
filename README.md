@@ -57,7 +57,7 @@ Form2.cs → Authentication control
 
 
 Form3.cs → Main menu
-<img width="945" height="502" alt="image" src="https://github.com/user-attachments/assets/ed1412e3-6453-4db5-9ab1-120764df51f0" />
+<img width="945" height="502" alt="image" src="https://github.com/user-attachments/assets/8f7933c1-4552-44af-962d-897761dc3a6a" />
 
 
 Form4.cs → Sales management
